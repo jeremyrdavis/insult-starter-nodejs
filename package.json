@@ -43,7 +43,10 @@
     "public",
     "bin",
     "LICENSE",
-    "licenses"
+    "licenses",
+    "lib",
+    "nouns.txt",
+    "adjectives.txt"
   ],
   "bugs": {
     "url": "https://github.com/nodeshift-starters/nodejs-rest-http-redhat/issues"
