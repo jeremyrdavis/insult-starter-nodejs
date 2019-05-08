@@ -1,6 +1,6 @@
 {
   "name": "insult-starter-nodejs",
-  "version": "1.0.0",
+  "version": "v1",
   "author": "Red Hat, Inc.",
   "license": "Apache-2.0",
   "scripts": {
